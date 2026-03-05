@@ -1,4 +1,6 @@
-LFI-AutoScanner
+
+
+## LFI-AutoScanner
 
 LFI-AutoScanner is an automated reconnaissance and exploitation tool designed to identify Local File Inclusion (LFI) vulnerabilities in web applications. It leverages advanced techniques, including PHP Filter Chain generation, to test for potential Remote Code Execution (RCE).
 ⚠️ Legal Disclaimer
