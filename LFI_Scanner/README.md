@@ -34,7 +34,7 @@ pip install requests colorama
 ### ⚙️ Usage
 
 ```
-python lfi_scanner.py -u "[http://target.com/index.php?file=](http://target.com/index.php?file=)" -f "index.php" -c "PHPSESSID=your_session_id"
+python lfi_scanner.py -u "http://target.com/index.php?file=" -f "index.php" -c "PHPSESSID=your_session_id"
 ```
 | Argument | Description |
 | :--- | :--- |
