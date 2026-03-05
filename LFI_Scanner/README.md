@@ -27,7 +27,9 @@ Prerequisites
 Ensure you have Python 3 installed. Install the required dependencies using:
 Bash
 
+```
 pip install requests colorama
+```
 
 Usage
 
